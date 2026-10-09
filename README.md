@@ -134,8 +134,10 @@ also checks paths containing spaces and Unicode and verifies immediate error log
 
 Version 0.1.1 fixes service startup after installation through Omarchy. Version
 0.1.0 incorrectly relied on a private manifest field, so installed plugins could
-be enabled without generating any styles. Update with the command above, then
-restart Files once to load the newly installed extension.
+be enabled without generating any styles. After updating from 0.1.0, run
+`omarchy restart shell` once: the running shell can retain the old QML component
+even after a plugin rescan. Then restart Files to load the newly installed
+extension, after finishing any transfers.
 
 Nautilus and Libadwaita can change widget selectors between releases. This styles
 the existing interface; it does not add views or change how Files manages data.
