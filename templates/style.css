@@ -1,0 +1,68 @@
+/* Oma File Explorer. Loaded only in Nautilus by our extension. */
+/* oma-file-explorer: active */
+:root {
+  font-family: monospace;
+  --window-bg-color: $background;
+  --window-fg-color: $foreground;
+  --view-bg-color: $background;
+  --view-fg-color: $foreground;
+  --headerbar-bg-color: $surface;
+  --headerbar-fg-color: $foreground;
+  --headerbar-backdrop-color: $surface;
+  --headerbar-shade-color: transparent;
+  --headerbar-darker-shade-color: transparent;
+  --sidebar-bg-color: $surface;
+  --sidebar-fg-color: $foreground;
+  --sidebar-backdrop-color: $surface;
+  --sidebar-shade-color: transparent;
+  --secondary-sidebar-bg-color: $surface;
+  --secondary-sidebar-fg-color: $foreground;
+  --card-bg-color: $raised;
+  --card-fg-color: $foreground;
+  --dialog-bg-color: $surface;
+  --dialog-fg-color: $foreground;
+  --popover-bg-color: $surface;
+  --popover-fg-color: $foreground;
+  --accent-bg-color: $accent;
+  --accent-fg-color: $on_accent;
+  --accent-color: $link;
+  --border-color: $border;
+  --window-radius: 10px;
+}
+
+/* Nautilus assigns a gray accent to these views; override it locally. */
+.nautilus-list-view listview,
+.nautilus-grid-view gridview,
+.nautilus-network-view listview {
+  --accent-bg-color: $accent;
+  --accent-fg-color: $on_accent;
+  --accent-color: $link;
+}
+
+headerbar { border-bottom: 1px solid $border; box-shadow: none; }
+button, entry, .nautilus-pathbar, .nautilus-path-button,
+.nautilus-grid-view gridview > child, .nautilus-grid-view .nautilus-view-cell,
+.nautilus-list-view listview > row, .navigation-sidebar row {
+  border-radius: 8px;
+}
+headerbar button { border-radius: 999px; }
+.navigation-sidebar row { border-radius: 12px; }
+.nautilus-pathbar { background: $raised; }
+.nautilus-path-button.current-dir { color: $link; }
+popover > contents { border: 1px solid $border; border-radius: 10px; }
+.nautilus-grid-view gridview > child:selected,
+.nautilus-list-view listview > row:selected,
+.navigation-sidebar row:selected {
+  background: $selection;
+  color: $on_selection;
+  box-shadow: inset 0 0 0 1px $accent;
+}
+.nautilus-grid-view gridview > child:hover:not(:selected),
+.nautilus-list-view listview > row:hover:not(:selected) { background: $raised; }
+.nautilus-grid-view .nautilus-image { filter: none; }
+
+/* Keep high contrast distinguishable even when the chosen palette is subtle. */
+@media (prefers-contrast: more) {
+  :root { --border-color: $foreground; }
+  button, entry { outline: 1px solid $foreground; outline-offset: -1px; }
+}

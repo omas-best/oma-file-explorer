@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="540" viewBox="0 0 980 540">
+<rect width="980" height="540" fill="#111c18"/>
+<g fill="#c1c497" font-family="monospace">
+<text x="40" y="55" font-size="26">Oma File Explorer</text>
+<text x="40" y="87" font-size="14">Folder artwork · colors from your Omarchy theme</text>
+<svg x="68" y="140" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<g stroke="#c1c497" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M7 27V17a3 3 0 0 1 3-3h14l7 7h23a3 3 0 0 1 3 3v25a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#213b30"/>
+<path d="M7 26h50v23a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#192a23"/>
+<g fill="none" transform="translate(0 2)"></g></g>
+</svg>
+<text x="100" y="231" text-anchor="middle" font-size="13">Folder</text><svg x="218" y="140" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<g stroke="#c1c497" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M7 27V17a3 3 0 0 1 3-3h14l7 7h23a3 3 0 0 1 3 3v25a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#213b30"/>
+<path d="M12 27h47l-6 23a4 4 0 0 1-4 3H9z" fill="#192a23"/>
+<g fill="none" transform="translate(0 2)"></g></g>
+</svg>
+<text x="250" y="231" text-anchor="middle" font-size="13">Open</text><svg x="368" y="140" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<g stroke="#c1c497" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M7 27V17a3 3 0 0 1 3-3h14l7 7h23a3 3 0 0 1 3 3v25a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#213b30"/>
+<path d="M7 26h50v23a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#192a23"/>
+<g fill="none" transform="translate(0 2)"><path d="M27 28h8l5 5v14H27z M35 28v6h5 M30 38h7 M30 42h7"/></g></g>
+</svg>
+<text x="400" y="231" text-anchor="middle" font-size="13">Documents</text><svg x="518" y="140" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<g stroke="#c1c497" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M7 27V17a3 3 0 0 1 3-3h14l7 7h23a3 3 0 0 1 3 3v25a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#213b30"/>
+<path d="M7 26h50v23a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#192a23"/>
+<g fill="none" transform="translate(0 2)"><path d="M32 28v15m-6-6 6 6 6-6M24 47h16"/></g></g>
+</svg>
+<text x="550" y="231" text-anchor="middle" font-size="13">Download</text><svg x="668" y="140" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<g stroke="#c1c497" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M7 27V17a3 3 0 0 1 3-3h14l7 7h23a3 3 0 0 1 3 3v25a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#213b30"/>
+<path d="M7 26h50v23a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#192a23"/>
+<g fill="none" transform="translate(0 2)"><rect x="23" y="29" width="20" height="17" rx="2"/><path d="m24 43 6-6 5 4 4-3 4 5"/><circle cx="37" cy="34" r="1"/></g></g>
+</svg>
+<text x="700" y="231" text-anchor="middle" font-size="13">Pictures</text><svg x="818" y="140" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<g stroke="#c1c497" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M7 27V17a3 3 0 0 1 3-3h14l7 7h23a3 3 0 0 1 3 3v25a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#213b30"/>
+<path d="M7 26h50v23a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#192a23"/>
+<g fill="none" transform="translate(0 2)"><path d="M29 43V30l12-3v13 M29 34l12-3"/><ellipse cx="26" cy="44" rx="3" ry="2"/><ellipse cx="38" cy="41" rx="3" ry="2"/></g></g>
+</svg>
+<text x="850" y="231" text-anchor="middle" font-size="13">Music</text><svg x="68" y="276" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<g stroke="#c1c497" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M7 27V17a3 3 0 0 1 3-3h14l7 7h23a3 3 0 0 1 3 3v25a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#213b30"/>
+<path d="M7 26h50v23a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#192a23"/>
+<g fill="none" transform="translate(0 2)"><rect x="23" y="29" width="20" height="17" rx="2"/><path d="m30 33 7 5-7 4z"/></g></g>
+</svg>
+<text x="100" y="367" text-anchor="middle" font-size="13">Videos</text><svg x="218" y="276" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<g stroke="#c1c497" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M7 27V17a3 3 0 0 1 3-3h14l7 7h23a3 3 0 0 1 3 3v25a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#213b30"/>
+<path d="M7 26h50v23a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#192a23"/>
+<g fill="none" transform="translate(0 2)"><circle cx="26" cy="34" r="3"/><circle cx="38" cy="34" r="3"/><path d="M20 46v-3a6 6 0 0 1 12 0v3M32 43a6 6 0 0 1 12 0v3"/></g></g>
+</svg>
+<text x="250" y="367" text-anchor="middle" font-size="13">Shared</text><svg x="368" y="276" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<g stroke="#c1c497" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M7 27V17a3 3 0 0 1 3-3h14l7 7h23a3 3 0 0 1 3 3v25a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#213b30"/>
+<path d="M7 26h50v23a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#192a23"/>
+<g fill="none" transform="translate(0 2)"><path stroke-dasharray="3 3" d="M24 29h18v18H24z"/></g></g>
+</svg>
+<text x="400" y="367" text-anchor="middle" font-size="13">Templates</text><svg x="518" y="276" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<g stroke="#c1c497" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M7 27V17a3 3 0 0 1 3-3h14l7 7h23a3 3 0 0 1 3 3v25a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#213b30"/>
+<path d="M7 26h50v23a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#192a23"/>
+<g fill="none" transform="translate(0 2)"><path d="M32 28v9M23 46v-9h18v9M32 37v9"/><path d="M28 28h8M19 46h8M28 46h8M37 46h8"/></g></g>
+</svg>
+<text x="550" y="367" text-anchor="middle" font-size="13">Remote</text><svg x="668" y="276" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<g stroke="#c1c497" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M7 27V17a3 3 0 0 1 3-3h14l7 7h23a3 3 0 0 1 3 3v25a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#213b30"/>
+<path d="M7 26h50v23a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#192a23"/>
+<g fill="none" transform="translate(0 2)"><circle cx="30" cy="35" r="6"/><path d="m35 40 6 6"/></g></g>
+</svg>
+<text x="700" y="367" text-anchor="middle" font-size="13">Saved-Search</text><svg x="818" y="276" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<g stroke="#c1c497" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M7 27V17a3 3 0 0 1 3-3h14l7 7h23a3 3 0 0 1 3 3v25a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#213b30"/>
+<path d="M7 26h50v23a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4z" fill="#192a23"/>
+<g fill="none" transform="translate(0 2)"><path d="m22 37 11-9 11 9M26 35v12h14V35M31 47v-8h5v8"/></g></g>
+</svg>
+<text x="850" y="367" text-anchor="middle" font-size="13">Home</text>
+<text x="40" y="426" font-size="12">Sidebar · drawn separately at 16 pixels</text>
+<svg x="40" y="442" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<g fill="none" stroke="#c1c497" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 5V3.5h4l2 2h6v7H2z"/></g>
+</svg>
+<svg x="76" y="442" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<g fill="none" stroke="#c1c497" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 7V3.5h4l2 2h5v2M2 7.5h12l-2 5H2z"/></g>
+</svg>
+<svg x="112" y="442" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<g fill="none" stroke="#c1c497" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 2h5l3 3v9H4zM9 2v4h3M6 9h4M6 11.5h4"/></g>
+</svg>
+<svg x="148" y="442" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<g fill="none" stroke="#c1c497" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v8M4.5 7 8 10.5 11.5 7M3 11v3h10v-3"/></g>
+</svg>
+<svg x="184" y="442" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<g fill="none" stroke="#c1c497" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="12" height="10" rx="1"/><path d="m3 11 3.5-4 3 3 2-2 2.5 3"/></g>
+</svg>
+<svg x="220" y="442" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<g fill="none" stroke="#c1c497" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 11V3l7-1v8M6 6l7-1"/><ellipse cx="4" cy="12" rx="2" ry="1.5"/><ellipse cx="11" cy="11" rx="2" ry="1.5"/></g>
+</svg>
+<svg x="256" y="442" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<g fill="none" stroke="#c1c497" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="12" height="10" rx="1"/><path d="m6 5.5 4 2.5-4 2.5z"/></g>
+</svg>
+<svg x="292" y="442" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<g fill="none" stroke="#c1c497" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="5" r="2"/><path d="M2 13v-1a4 4 0 0 1 8 0v1M11 3a2 2 0 0 1 0 4M12 9a3 3 0 0 1 2 3v1"/></g>
+</svg>
+<svg x="328" y="442" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<g fill="none" stroke="#c1c497" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path stroke-dasharray="2 3" d="M3 2.5h10v11H3z"/></g>
+</svg>
+<svg x="364" y="442" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<g fill="none" stroke="#c1c497" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="2" width="4" height="3" rx=".5"/><path d="M8 5v4M3 11V9h10v2"/><rect x="1" y="11" width="4" height="3" rx=".5"/><rect x="11" y="11" width="4" height="3" rx=".5"/></g>
+</svg>
+<svg x="400" y="442" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<g fill="none" stroke="#c1c497" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="7" cy="7" r="4"/><path d="m10 10 4 4"/></g>
+</svg>
+<svg x="436" y="442" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<g fill="none" stroke="#c1c497" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="m1.5 7 6.5-5.5L14.5 7M3.5 6v8H7v-4h2v4h3.5V6"/></g>
+</svg>
+
+<text x="40" y="507" font-size="12">Your familiar file explorer. Dressed for Omarchy.</text></g></svg>

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "community.oma-file-explorer",
+  "name": "Oma File Explorer",
+  "version": "0.1.0",
+  "description": "Make Files match Omarchy, with matching colors and custom folder icons.",
+  "license": "MIT",
+  "repository": "https://github.com/omas-best/oma-file-explorer",
+  "kinds": ["service"],
+  "entryPoints": {"service": "Service.qml"}
+}
