@@ -128,6 +128,15 @@ diagnostics. An isolated Nautilus session verified the actual shell service,
 folder rendering and a live dark-to-light theme change. See the
 [dark](assets/files-dark.png) and [light](assets/files-light.png) screenshots.
 
+An additional Quickshell integration test starts the real service with the public
+community-plugin manifest, which omits Omarchy's internal source directory. It
+also checks paths containing spaces and Unicode and verifies immediate error logging.
+
+Version 0.1.1 fixes service startup after installation through Omarchy. Version
+0.1.0 incorrectly relied on a private manifest field, so installed plugins could
+be enabled without generating any styles. Update with the command above, then
+restart Files once to load the newly installed extension.
+
 Nautilus and Libadwaita can change widget selectors between releases. This styles
 the existing interface; it does not add views or change how Files manages data.
 
